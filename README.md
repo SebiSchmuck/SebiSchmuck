@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebiSchmuck
-- 👀 I’m currently studying Computer Science in Germany (M.Sc.)
+- 👀 I made my Master's Degree in Computer Science in Germany
 - 📫 How to reach me: sebi.schmuck@gmail.com
 - 🌐 Check out my super cool website: https://SebiSchmuck.github.io
 
